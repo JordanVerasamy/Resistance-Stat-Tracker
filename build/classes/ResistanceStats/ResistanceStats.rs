@@ -1,0 +1,1 @@
+ResistanceStats.ResistanceStats
